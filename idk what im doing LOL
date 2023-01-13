@@ -1,1 +1,7 @@
-action-unblock; all-websites; chrome
+https://dashboard.blooket.com/market
+;when;active-add;500;tokens-300;xp
+;when;refresh
+change;configure/https://dashboard.blooket.com/market
+;when-active;blooket.com;says;all-blooks;unlock
+;when;refresh
+;all;blooks-unlocked
